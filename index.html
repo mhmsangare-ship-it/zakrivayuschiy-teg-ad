@@ -320,11 +320,13 @@
           </svg>
           <p class="dialog__text">Вставьте дискету, чтобы продолжить</p>
         </div>
-        <form class="dialog__form" method="dialog">
-          <button class="button dialog__button" type="submit">
-            <span class="button__text">ОК</span>
-          </button>
-        </form>
+        <button
+          class="button dialog__button"
+          type="button"
+          onclick="window['save-dialog'].close()"
+        >
+          <span class="button__text">ОК</span>
+        </button>
       </dialog>
     </main>
     <script src="./scripts/like.js"></script>
