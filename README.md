@@ -13,6 +13,10 @@
 - модальное окно на элементе `dialog` с `::backdrop`;
 - анимация иконки сердца через `transition` и `@keyframes`.
 
+## Ссылка на репозиторий
+
+https://github.com/mhmsangare-ship-it/zakrivayuschiy-teg-ad
+
 ## Ссылка на сайт
 
 https://mhmsangare-ship-it.github.io/zakrivayuschiy-teg-ad/
